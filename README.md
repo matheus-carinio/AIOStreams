@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Discord-Join_Chat-7289DA?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Server">
   </a>
 
-  
+   
 
 
   
